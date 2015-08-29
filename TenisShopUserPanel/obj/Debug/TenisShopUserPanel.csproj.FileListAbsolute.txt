@@ -1,0 +1,9 @@
+c:\users\marcinszczepanski\documents\visual studio 2012\Projects\TenisShopUserPanel\TenisShopUserPanel\bin\TenisShopUserPanel.dll
+c:\users\marcinszczepanski\documents\visual studio 2012\Projects\TenisShopUserPanel\TenisShopUserPanel\bin\TenisShopUserPanel.pdb
+c:\users\marcinszczepanski\documents\visual studio 2012\Projects\TenisShopUserPanel\TenisShopUserPanel\obj\Debug\TenisShopUserPanel.csprojResolveAssemblyReference.cache
+c:\users\marcinszczepanski\documents\visual studio 2012\Projects\TenisShopUserPanel\TenisShopUserPanel\obj\Debug\TenisShopUserPanel.dll
+c:\users\marcinszczepanski\documents\visual studio 2012\Projects\TenisShopUserPanel\TenisShopUserPanel\obj\Debug\TenisShopUserPanel.pdb
+C:\Users\marcinszczepanski\documents\visual studio 2012\Projects\TenisShopUserPanel\TenisShopUserPanel\bin\EntityFramework.dll
+C:\Users\marcinszczepanski\documents\visual studio 2012\Projects\TenisShopUserPanel\TenisShopUserPanel\bin\EntityFramework.SqlServer.dll
+C:\Users\marcinszczepanski\documents\visual studio 2012\Projects\TenisShopUserPanel\TenisShopUserPanel\bin\EntityFramework.xml
+C:\Users\marcinszczepanski\documents\visual studio 2012\Projects\TenisShopUserPanel\TenisShopUserPanel\bin\EntityFramework.SqlServer.xml

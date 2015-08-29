@@ -1,0 +1,94 @@
+/* Make something awesome! */
+
+input:focus 
+{
+ border-color: #E9E9E9;
+ outline: none;
+
+}
+body 
+{
+ background: url("images/background.jpeg")#FFFFFF; 
+}
+
+.container {
+ background: #fff;   
+}
+
+.btn btn-success 
+{
+   margin-left: 20px; 
+}
+
+.col-md-3 
+{
+   margin-top: 30px; 
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img 
+{
+    width: 70%;
+    margin: auto;
+}
+
+.row > .col-md-8 {
+    border: 2px solid #E9E9E9;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.panel-heading {
+    background: linear-gradient(#ffffff, #f6f6f6); 
+    border: 2px solid #E9E9E9;
+    margin-bottom: 10px;
+}
+
+.bg-warning {
+    font-size: 12px;
+    text-align: justify;
+    margin-bottom: 10px;
+}
+
+.login_panel 
+{    
+    margin-top: 20px;
+    width: 150px;
+    
+}
+
+
+.label-default {
+    float: right;
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+
+
+.col-sm-offset-3 {
+    border: 10px solid #E9E9E9;
+}
+
+.login_panel > .btn-primary {
+     float: right;
+     margin-right: 10px;
+     margin-bottom: 10px;
+}
+
+.list-group {
+    width:190px;
+}
+
+#loginModal {
+    padding-top: 15%;
+}
+
+
+.pad-top {
+    padding-top:20px;
+    padding-bottom: 30px;
+}
+
+
+
